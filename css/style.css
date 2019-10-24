@@ -381,7 +381,7 @@ button {
 .centrada {
   display: flex;
   justify-content: center;
-  margin: 50px auto;
+  margin: 10px auto;
 }
 .contenedor {
   display: flex;
