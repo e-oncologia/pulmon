@@ -914,6 +914,7 @@ body.offcanvas .ico-nav-toggle {
   background-image: url(../images/trama01.png);
   padding: 30px;
   margin-bottom: 10px;
+  border-radius: 25px;
 }
 .ico-cards .ico-flex-wrap > div:nth-of-type(1) {
   float: left;
